@@ -1,4 +1,5 @@
 *
 .netrc
+.pgpass
 !.gitignore
 !*rc
